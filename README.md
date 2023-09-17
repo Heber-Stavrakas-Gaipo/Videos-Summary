@@ -16,6 +16,8 @@ Aplicação construída no NLW AI da Rocketseat na trilha Foundations.
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+![shorts_summary](https://github.com/Heber-Stavrakas-Gaipo/video-summary/assets/134441744/24060152-ce47-475e-9a9d-92ed09ed8263)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
